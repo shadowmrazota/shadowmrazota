@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadowmrazota
 - 👀 I’m interested in games
-- 🌱 I’m currently learning in school
+- 🌱 I’m currently learning in college
 - 💞️ I’m looking to collaborate on yandex
 - 📫 How to reach me message on GitHub
 - 😄 Pronouns: ...
